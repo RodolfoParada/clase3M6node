@@ -1,1 +1,2 @@
-# clase3M6node
+# 0023Modulo6Sesion3
+EcmaScript 6 con NodeJs
